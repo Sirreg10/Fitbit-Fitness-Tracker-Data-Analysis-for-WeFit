@@ -53,6 +53,7 @@ This section involves exploring the FitBit Fitness Tracker Data to help answer t
   - Light: ≤10 days
     
 - Targeted Active and Moderate users for fitness gear marketing.
+<img width="466" height="369" alt="Wefit Dashboard" src="https://github.com/user-attachments/assets/4426346c-7c47-4aae-be57-60c2d5a6139a" />
 
 ### 4. For Sleepy Nights 
 - Classified sleep patterns:
@@ -60,6 +61,7 @@ This section involves exploring the FitBit Fitness Tracker Data to help answer t
  - Normal: 7–9 hours
  - Excessive: >9 hours
 - Found 12 Poor sleepers as ideal targets for sleep app subscriptions.
+<img width="616" height="386" alt="Sleep Day Analysis" src="https://github.com/user-attachments/assets/17baa886-0e54-4342-ac97-1a92685bfd98" />
 
 ### 5. Dashboard Creation
 - Grouped users by activity level and average distance/steps.
