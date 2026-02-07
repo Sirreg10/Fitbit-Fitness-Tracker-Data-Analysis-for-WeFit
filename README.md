@@ -44,6 +44,7 @@ This section involves exploring the FitBit Fitness Tracker Data to help answer t
 ### 2. For Heart Rate (LeanFit support):
 - Flagged users with heart rate > 185 bpm as “Elevated Heart Risk.”
 - 4 out of 7 sampled users had elevated risk—potential targets for heart-healthy weight loss plans.
+<img width="488" height="440" alt="Heart rate leanfit analysis" src="https://github.com/user-attachments/assets/65e1f226-aef7-4e57-b95f-066832939c71" />
 
 ### 3. For FitWear:
 - I Categorized users based on tracker usage:
