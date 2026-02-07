@@ -66,6 +66,8 @@ This section involves exploring the FitBit Fitness Tracker Data to help answer t
 ### 5. Dashboard Creation
 - Grouped users by activity level and average distance/steps.
 - Created charts to visualize user engagement and activity trends.
+<img width="596" height="443" alt="Wefit 2" src="https://github.com/user-attachments/assets/c9b276f5-fed3-4d9f-a8a0-4a4568169d62" />
+<img width="563" height="440" alt="Wefit Dashboard 3" src="https://github.com/user-attachments/assets/b92284ae-a8f5-4e42-aaf1-dd6fd6fc2d24" />
 
 ## Results 
 After Data has been analyzed the key questions were answered and the following were the results: 
