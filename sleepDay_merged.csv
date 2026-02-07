@@ -1,0 +1,29 @@
+,,,,,,Sleepy Nights Company,,,,,
+"1. This analysis is focused on adults as outlined in the problem statement. The recommended amount of sleep for adults is 7-9 hours. Sleeping below this range is considered as sleep deprivation, while sleeping above this range is considered excessive and could be indicative of an underlying issue",,,,,,,,,,,
+2. I have taken into account the sleep efficiency as the measure of sleep quality from the data related to the sleep problem. This measure will be used to provide recommendations to the company on how to market the use of their apps.,,,,,,,,,,,
+3. The scattered plot shows the relationship between the customers and their sleep efficiency. ,,,,,,,,,,,
+,,,,,,ID,Average of TotalMinutesAsleep,Average of TotalTimeInBed,sleep efficiency,Sleep Activity,sleep efficiency measure
+,,,,,,1503960366,360.28,383.20,94.02,Sleep deprived,Excellent Sleep
+,,,,,,1644430081,294.00,346.00,84.97,Sleep deprived,Good Sleep
+,,,,,,1844505072,652.00,961.00,67.85,Excessive sleep,Poor sleep
+,,,,,,1927972279,417.00,437.80,95.25,Sleep deprived,Excellent Sleep
+,,,,,,2026352035,506.18,537.64,94.15,Normal Sleep,Excellent Sleep
+,,,,,,2320127002,61.00,69.00,88.41,Sleep deprived,Good Sleep
+,,,,,,2347167796,446.80,491.33,90.94,Normal Sleep,Excellent Sleep
+,,,,,,3977333714,293.64,461.14,63.68,Sleep deprived,Poor sleep
+,,,,,,4020332650,349.38,379.75,92.00,Sleep deprived,Excellent Sleep
+,,,,,,4319703577,476.65,501.96,94.96,Normal Sleep,Excellent Sleep
+,,,,,,4388161847,403.13,426.21,94.58,Sleep deprived,Excellent Sleep
+,,,,,,4445114986,385.18,416.82,92.41,Sleep deprived,Excellent Sleep
+,,,,,,4558609924,127.60,140.00,91.14,Sleep deprived,Excellent Sleep
+,,,,,,4702921684,421.14,441.96,95.29,Normal Sleep,Excellent Sleep
+,,,,,,5553957443,463.48,505.87,91.62,Normal Sleep,Excellent Sleep
+,,,,,,5577150313,432.00,460.62,93.79,Normal Sleep,Excellent Sleep
+,,,,,,6117666160,478.78,510.17,93.85,Normal Sleep,Excellent Sleep
+,,,,,,6775888955,349.67,369.00,94.76,Sleep deprived,Excellent Sleep
+,,,,,,6962181067,448.00,466.13,96.11,Normal Sleep,Excellent Sleep
+,,,,,,7007744171,68.50,71.50,95.80,Sleep deprived,Excellent Sleep
+,,,,,,7086361926,453.13,466.42,97.15,Normal Sleep,Excellent Sleep
+,,,,,,8053475328,297.00,301.67,98.45,Sleep deprived,Excellent Sleep
+,,,,,,8378563200,443.34,483.31,91.73,Normal Sleep,Excellent Sleep
+,,,,,,8792009665,435.67,453.80,96.00,Normal Sleep,Excellent Sleep
