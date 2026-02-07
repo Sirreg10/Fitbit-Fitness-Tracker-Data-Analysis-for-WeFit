@@ -83,3 +83,9 @@ As a data analyst the solution to these problem statements are given below
 - <b> Sleepy-Nights:</b>  Target Poor sleepers with free trial offers.
 - <b> General:</b> Use dashboard for ongoing tracking and campaign adjustments.
 
+## Limitations 
+- Data is from 2016—may not reflect current behaviors.
+- No demographic info (age, gender, location) for deeper targeting.
+- Sleep and heart rate data were limited to available logs.
+
+
