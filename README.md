@@ -39,6 +39,7 @@ This section involves exploring the FitBit Fitness Tracker Data to help answer t
   - Obese: 30+
 
 - Identified  1 Obese, 4 overweight, 3 Healthy users as potential targets for weight loss. 
+<img width="359" height="441" alt="Leanfit analysis" src="https://github.com/user-attachments/assets/bf7ddf7c-943d-4b0e-8452-72017e1df7e1" />
 
 ### 2. For Heart Rate (LeanFit support):
 - Flagged users with heart rate > 185 bpm as “Elevated Heart Risk.”
